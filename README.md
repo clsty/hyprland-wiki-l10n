@@ -17,4 +17,4 @@ Fork this project, git pull to local, make changes (i.e. translate), git add, gi
 ## Todo
 - GitHub pages, with workflow automation.
 - Use an opensource CAT (Computer-Aided Translation) tool.
-
+- Automatically show translation progress.
