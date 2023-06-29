@@ -1,5 +1,7 @@
-# hyprland-wiki-l10n
+# hyprland-wiki-l10n [WIP]
 This unofficial repo aims to localize [hyprland wiki](https://wiki.hyprland.org) to other languages.
+
+Currently Working In Progress.
 
 ## How to contribute in translation
 ### Know which directory you're editing
